@@ -1,4 +1,4 @@
-treehouse_HTML_project
+HTML_project
 ======================
 
 a static website using only HTML and CSS
